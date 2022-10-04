@@ -1,2 +1,2 @@
-# Hotel-Application-in-c
-This is simple Hotel Application in c language
+# Hotel-Application-in-C 
+This is simple Hotel Application in C language
